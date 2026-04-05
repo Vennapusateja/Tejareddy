@@ -39,7 +39,13 @@ Strong in **DSA, OOP, and backend logic**, I focus on writing maintainable code 
 
 ## 🛠️ Tech Stack
 
+* Languages: Python, JavaScript
 * Frontend: React, HTML5, CSS3, Bootstrap
 * Backend: Django, Node.js, Express
 * Database: MySQL, PostgreSQL
-* Tools: Azure, Selenium
+
+## 🧠 Core Skills
+
+* Data Structures & Algorithms (DSA)
+* Object-Oriented Programming (OOP)
+* API Design & System Thinking
