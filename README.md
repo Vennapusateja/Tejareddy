@@ -13,11 +13,11 @@ Strong in **DSA, OOP, and backend logic**, I focus on writing maintainable code 
 
 ## 📊 GitHub Stats
 
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vennapusateja\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Vennapusateja&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vennapusateja\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Vennapusateja&theme=tokyonight&hide_border=true" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vennapusateja\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vennapusateja&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 ---
 
@@ -43,4 +43,3 @@ Strong in **DSA, OOP, and backend logic**, I focus on writing maintainable code 
 * Backend: Django, Node.js, Express
 * Database: MySQL, PostgreSQL
 * Tools: Azure, Selenium
-
