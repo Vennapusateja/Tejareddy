@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vennapusa teja</h1>
 <h3 align="center">A passionate frontend develoI build full-stack applications that actually run in production — not just demo projects. I’m a Computer Science student specializing in Python (Django REST) and React, with hands-on experience designing APIs, integrating payments, and deploying scalable systems. I’ve already shipped a real-world marketplace platform with multi-role workflows and end-to-end functionality. Strong in DSA, OOP, and backend logic, I focus on writing maintainable code and solving real problems — not just completing coursework.per from India</h3>
 
-- 🔭 I’m currentlTractorBazaar – Full-stack rental marketplacey working on [https://github.com/vennapusateja/YOUR-REPO](https://github.com/vennapusateja/YOUR-REPO)
+- 🔭 I’m currentlTractorBazaar – Full-stack rental marketplacey working on [[https://github.com/Vennapusateja/tractor-frontend](https://github.com/Vennapusateja/tractor-frontend)](https://github.com/vennapusateja/YOUR-REPO)
 
 - 📫 How to reach me **vtejareddy955@gmail.com**
 
